@@ -12,10 +12,11 @@ A **Cinnamon Desklet** that fetches and displays your currently playing or last 
 
 ## Features
 - Automatically fetches the latest played track from Last.fm
-- Displays song details in a stylish overlay
 - Updates at a configurable interval
 - Fetches and sets the album art as the desklet's background
-- Lightweight and simple to use
+  
+![Screenshot from 2025-02-09 18-14-58](https://github.com/user-attachments/assets/41027354-b1bf-4d9a-b956-40f157a1ee2f)
+
 
 ## Installation
 1. **Download** the desklet files and place them in your Cinnamon desklet directory:
