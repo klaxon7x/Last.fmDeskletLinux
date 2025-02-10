@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-# LastfmNowPDesklet
-=======
+
 # Last.fm Desklet for Cinnamon
 
-A **Cinnamon Desklet** that fetches and displays your currently playing or last listened track from **Last.fm**, including:
-
--  **Song Title**
--  **Artist Name**
--  **Album Cover**
-- **Timestamp (Last Played)**
+A **Cinnamon Desklet** that fetches and displays your currently playing or last listened to track from **Last.fm**
 
 ## Features
 - Automatically fetches the latest played track from Last.fm
